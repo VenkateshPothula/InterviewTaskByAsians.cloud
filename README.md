@@ -15,3 +15,9 @@ TestNG
 git clone https://github.com/VenkateshPothula/InterviewTaskByAsians.cloud.git
 
 ```
+
+## To Execute Test case 
+Righ Click on TestNG.xml file and Run as TestNG
+
+
+Execution will show you that Both Register user and Login User 
