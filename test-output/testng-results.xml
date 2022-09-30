@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-30T17:17:44 IST" name="Test Automation Test Suite" finished-at="2022-09-30T17:18:14 IST" duration-ms="30294">
+    <groups>
+    </groups>
+    <test started-at="2022-09-30T17:17:44 IST" name="Interview Task" finished-at="2022-09-30T17:18:14 IST" duration-ms="30294">
+      <class name="com.test.qa.testcases.UserLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.qa.testcases.UserLogin@40cb8df7]" started-at="2022-09-30T17:17:44 IST" name="setUp" finished-at="2022-09-30T17:17:51 IST" duration-ms="7520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AppLogin()[pri:0, instance:com.test.qa.testcases.UserLogin@40cb8df7]" started-at="2022-09-30T17:17:51 IST" name="AppLogin" finished-at="2022-09-30T17:17:59 IST" duration-ms="7436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.qa.testcases.UserLogin@40cb8df7]" started-at="2022-09-30T17:17:59 IST" name="tearDown" finished-at="2022-09-30T17:17:59 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.qa.testcases.UserLogin -->
+      <class name="com.test.qa.testcases.RegisterNewUserAndLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.qa.testcases.RegisterNewUserAndLogin@13b13b5d]" started-at="2022-09-30T17:17:59 IST" name="setUp" finished-at="2022-09-30T17:18:05 IST" duration-ms="5504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Register()[pri:0, instance:com.test.qa.testcases.RegisterNewUserAndLogin@13b13b5d]" started-at="2022-09-30T17:18:05 IST" name="Register" finished-at="2022-09-30T17:18:13 IST" duration-ms="8109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.qa.testcases.RegisterNewUserAndLogin@13b13b5d]" started-at="2022-09-30T17:18:13 IST" name="tearDown" finished-at="2022-09-30T17:18:14 IST" duration-ms="1343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.qa.testcases.RegisterNewUserAndLogin -->
+    </test> <!-- Interview Task -->
+  </suite> <!-- Test Automation Test Suite -->
+</testng-results>
