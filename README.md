@@ -25,6 +25,6 @@ Execution will show you that Both Register user and Login User
 
 ## TestNG xml file Location
 
-Go to Project and Under /src/main/resources
+Go to Project and Under /src/main/resources folder will see the testng.xml doc
 
 ## Happy Execution 
