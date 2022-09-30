@@ -9,8 +9,6 @@ Maven
 ###libraries used
 Selenium
 TestNG
-log4j
-Extent Reports
 
 ### Steps to clone execute the tests
 ```
