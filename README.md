@@ -21,3 +21,10 @@ Righ Click on TestNG.xml file and Run as TestNG
 
 
 Execution will show you that Both Register user and Login User 
+
+
+## TestNG xml file Location
+
+Go to Project and Under /src/main/resources
+
+## Happy Execution 
