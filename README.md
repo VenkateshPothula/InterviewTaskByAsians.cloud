@@ -14,6 +14,6 @@ Extent Reports
 
 ### Steps to clone execute the tests
 ```
-git clone 
+git clone https://github.com/VenkateshPothula/InterviewTaskByAsians.cloud.git
 
 ```
